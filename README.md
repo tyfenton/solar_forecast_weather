@@ -1,0 +1,1 @@
+Simplified way to draw forecast data for a large group of sites via the pvlib forecast package
